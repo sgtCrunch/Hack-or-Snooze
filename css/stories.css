@@ -32,8 +32,19 @@
 
 .story-author {
   margin-left: 2em;
+  color: rgb(150, 99, 5);
 }
 
 .story-user {
+  margin-left: 2em;
+  color: rebeccapurple;
   display: block;
+}
+
+.story-hostname {
+  color: rgb(3, 3, 58);
+}
+
+.delete{
+  margin-left: 2em;
 }
